@@ -3,9 +3,9 @@ PokerDice
 
 Multi-player Poker Dice game with GUI
 
-Poker dice are similar to the classic 6-sided dice, except each of the 6 sides
+Poker dice is similar to the classic 6-sided dice, except each of the 6 sides
 contains a classic playing card (all in the suit spades) on its side instead of
-a number of pips. The faces of a poker die are thus 9, 10, jack, queen, king and
+a number of pips. The faces of a poker die are 9, 10, jack, queen, king and
 ace of spades.
 
 The GUI will display 5 poker dice and the player will be able to roll the dice.
